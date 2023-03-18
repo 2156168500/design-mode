@@ -1,3 +1,5 @@
+package stategy.example1;
+
 public class NormalCharge extends Cost{
     public NormalCharge(){
 

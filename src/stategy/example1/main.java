@@ -1,3 +1,5 @@
+package stategy.example1;
+
 public class main {
     public static void main(String[] args) {
         Cost cost = ConstFactory.getCost("正常收费");

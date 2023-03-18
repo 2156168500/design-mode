@@ -1,3 +1,5 @@
+package stategy.example1;
+
 /**
  * 创建收费类的工厂
  */

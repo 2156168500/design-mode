@@ -1,3 +1,5 @@
+package stategy.example1;
+
 /**
  * 打折收费的类
  */

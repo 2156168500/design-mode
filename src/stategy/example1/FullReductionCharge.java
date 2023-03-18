@@ -1,3 +1,5 @@
+package stategy.example1;
+
 /**
  * 满减收费的类
  */
